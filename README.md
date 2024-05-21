@@ -8,4 +8,6 @@ criando cena para treino
 <p>para colocar física nos objetos criados no unity tivemos que criar um rigidbody para cada elemento, o rigidbody é um componente que faz com que algum objeto possua masssa e seja puxado pela gravidade, depois criamos um material de física para os objetos quicarem no terreno, já o dinossauros não precisam desses materiais de física, pois ficam estáticos na cena</p>
 
 <h2>Funcionando</h2>
-
+<video width="320" height="240" controls>
+  <source src="cena1.mkv" type="video/mkv">
+</video>
