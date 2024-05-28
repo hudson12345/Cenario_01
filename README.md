@@ -9,5 +9,5 @@ criando cena para treino
 
 <h2>Funcionando</h2>
 <video width="320" height="240" controls>
-  <source src="(https://github.com/hudson12345/Cenario_01/blob/main/Cena1.mkv)" type="video/mkv">
+  <source src="(https://github.com/hudson12345/Cenario_01/blob/main/Cena1.mp4)" type="video/mp4">
 </video>
